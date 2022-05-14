@@ -1,2 +1,3 @@
 # gitskills
 remote
+localhost
