@@ -1,3 +1,4 @@
 # gitskills
 remote
 localhost
+company
